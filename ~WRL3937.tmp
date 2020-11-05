@@ -1,11 +1,3 @@
-Nov 4, 2020
-
-Database consists of 6 csv files of employe data from Pewlett Hackard. Turns out this was just an April Fools Joke based on the employee number. Project consist of creating a database using pgAdmin and PostgreSQL. The database structure was created using www.quickdatabasediagrams. Homework assignment details are below and Bonus was also completed and uploaded. 
-
-
-
-
-
 # SQL Homework - Employee Database: A Mystery in Two Parts
 ![sql.png](sql.png)
 ## Background
