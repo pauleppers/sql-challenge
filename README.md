@@ -1,4 +1,4 @@
-# SQL of Employee Database: A Mystery in Two Parts
+# SQL of an Employee Database: A Mystery in Two Parts
 
 #### Data Modeling
 Create an ERD of the tables using [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
